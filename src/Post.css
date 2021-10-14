@@ -1,0 +1,12 @@
+.card {
+    width: 18rem;
+    border-radius: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    
+}
+  .btn {
+    font-size: 12px;
+    width: 58px;
+    height: 25px;
+  }

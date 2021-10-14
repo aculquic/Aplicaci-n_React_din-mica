@@ -1,0 +1,25 @@
+[
+    {   "id": 1,
+        "author":"@eric",
+        "image":"https://source.unsplash.com/random/800x800",
+        "createdAT":"3min ago",
+        "text":"Some quick example text to build on the card title and make up the bulk of the cards content.",
+        "comments":"Comments(15)"
+    },
+    {
+        "id":2,
+        "author":"@mell54",
+        "image":"https://source.unsplash.com/random/800x800",
+        "createdAT":"8min ago",
+        "text":"Es un hecho establecido hace demasiado tiempo que un lector se distraerá con el contenido del texto de un sitio mientras que mira su diseño.",
+        "comments":"Comments(8)"
+    },
+    {
+        "id": 3,
+        "author":"@rick",
+        "image":"https://source.unsplash.com/random/800x800",
+        "createdAT":"2min ago",
+        "text":"Hay muchas variaciones de los pasajes de Lorem Ipsum disponibles, pero la mayoría sufrió alteraciones en alguna manera.",
+        "comments":"Comments(49)"
+    }
+]

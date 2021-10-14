@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Aplicaci-n_React_din-mica/static/css/main.01c1c66d.chunk.css",
+    "main.js": "/Aplicaci-n_React_din-mica/static/js/main.408b9c44.chunk.js",
+    "main.js.map": "/Aplicaci-n_React_din-mica/static/js/main.408b9c44.chunk.js.map",
+    "runtime-main.js": "/Aplicaci-n_React_din-mica/static/js/runtime-main.677c3e61.js",
+    "runtime-main.js.map": "/Aplicaci-n_React_din-mica/static/js/runtime-main.677c3e61.js.map",
+    "static/js/2.75627429.chunk.js": "/Aplicaci-n_React_din-mica/static/js/2.75627429.chunk.js",
+    "static/js/2.75627429.chunk.js.map": "/Aplicaci-n_React_din-mica/static/js/2.75627429.chunk.js.map",
+    "index.html": "/Aplicaci-n_React_din-mica/index.html",
+    "static/css/main.01c1c66d.chunk.css.map": "/Aplicaci-n_React_din-mica/static/css/main.01c1c66d.chunk.css.map",
+    "static/js/2.75627429.chunk.js.LICENSE.txt": "/Aplicaci-n_React_din-mica/static/js/2.75627429.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.677c3e61.js",
+    "static/js/2.75627429.chunk.js",
+    "static/css/main.01c1c66d.chunk.css",
+    "static/js/main.408b9c44.chunk.js"
+  ]
+}
